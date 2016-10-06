@@ -1,15 +1,19 @@
 body {
   background-color: #fdf6e3
 }
+
 header {
   font-size: 1.5rem;
 }
+
 footer {
   font-size: 1.5rem;
 }
+
 nav ul {
   font-family: sans-serif;
 }
+
 .logo {
   text-transform: uppercase;
 }
@@ -24,9 +28,19 @@ nav ul {
 #types {
   color: #93a1a1;
 }
+
 .wrapper .dfn {
   background-color: #b58900;
 }
-.dfn strong:last-child; {
+
+.dfn strong:last-child {
   color: #fff;
+}
+
+html, body, header, nav, ul, li, mark {
+  background-color: #719e07;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
 }
